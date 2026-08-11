@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "geo_29_介護医療院",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "西の京介護医療院やすらぎ【介護医療院】奈良県奈良市六条町99-2西の京介護医療院やすらぎ", "url": "https://www.kaigokensaku.mhlw.go.jp/29/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=29B0190002-00&ServiceCd=550&Type=search", "url2": "https://www.nishinokyo.or.jp/kaigo/yasuragi/index.html" }, "geometry": { "type": "Point", "coordinates": [ 135.790108861971248, 34.665391885508178 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人新仁会　奈良春日病院介護医療院【介護医療院】奈良県奈良市鹿野園町1212-1", "url": "https://www.kaigokensaku.mhlw.go.jp/29/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=29B0100019-00&ServiceCd=550&Type=search", "url2": "https://narakasuga-hospital.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 135.8529701, 34.6642378 ] } },
+{ "type": "Feature", "properties": { "内容": "奈良厚生会病院介護医療院【介護医療院】奈良県大和郡山市椎木町７６９番地の３", "url": "https://www.kaigokensaku.mhlw.go.jp/29/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=29B0300015-00&ServiceCd=550&Type=search", "url2": "https://nara-koseikai.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 135.768809732540859, 34.608039117627364 ] } },
+{ "type": "Feature", "properties": { "内容": "奈良東病院介護医療院【介護医療院】奈良県天理市中之庄町４７０", "url": "https://www.kaigokensaku.mhlw.go.jp/29/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=29B0400013-00&ServiceCd=550&Type=search", "url2": "https://www.fureai-net.com/" }, "geometry": { "type": "Point", "coordinates": [ 135.844753901852386, 34.637355379922383 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人　桂会　平尾病院介護医療院【介護医療院】奈良県橿原市兵部町6-28", "url": "https://www.kaigokensaku.mhlw.go.jp/29/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=29B0500010-00&ServiceCd=550&Type=search", "url2": "http://www.hiraohos.jp/" }, "geometry": { "type": "Point", "coordinates": [ 135.7923365, 34.5054351 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人八甲会潮田病院介護医療院【介護医療院】奈良県吉野郡吉野町上市2135", "url": "https://www.kaigokensaku.mhlw.go.jp/29/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=29B3500017-00&ServiceCd=550&Type=search", "url2": "http//hakkohkai.com" }, "geometry": { "type": "Point", "coordinates": [ 135.846787899999981, 34.3945832 ] } },
+{ "type": "Feature", "properties": { "内容": "南和病院介護医療院【介護医療院】奈良県吉野郡大淀町福神1-181", "url": "https://www.kaigokensaku.mhlw.go.jp/29/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=29B3600015-00&ServiceCd=550&Type=search", "url2": "http://www.koujin.jp/" }, "geometry": { "type": "Point", "coordinates": [ 135.7541664, 34.3938321 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人泰山会　介護医療院　福西クリニック【介護医療院】奈良県吉野郡下市町大字新住１５５番地１", "url": "https://www.kaigokensaku.mhlw.go.jp/29/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=29B3700013-00&ServiceCd=550&Type=search", "url2": "http://ichiro-creation.com/fukunishi/index.html" }, "geometry": { "type": "Point", "coordinates": [ 135.7824266, 34.3806377 ] } }
+]
+}

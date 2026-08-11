@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_29_短期入所療養介護（介護医療院）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "医療法人健和会　奈良東病院【短期入所療養介護（介護医療院）】奈良県天理市中之庄町４７０", "url": "https://www.kaigokensaku.mhlw.go.jp/29/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=29B0400013-00&ServiceCd=551&Type=search", "url2": "https://www.fureai-net.com/" }, "geometry": { "type": "Point", "coordinates": [ 135.8446788, 34.6370067 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人八甲会潮田病院介護医療院【短期入所療養介護（介護医療院）】奈良県吉野郡吉野町上市2135", "url": "https://www.kaigokensaku.mhlw.go.jp/29/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=29B3500017-00&ServiceCd=551&Type=search", "url2": "http://hakkohkai.com/" }, "geometry": { "type": "Point", "coordinates": [ 135.846787899999981, 34.3945832 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人泰山会　介護医療院　福西クリニック【短期入所療養介護（介護医療院）】奈良県吉野郡下市町大字新住１５５番地１", "url": "https://www.kaigokensaku.mhlw.go.jp/29/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=29B3700013-00&ServiceCd=551&Type=search", "url2": "http://taizankai.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 135.7824266, 34.3806377 ] } }
+]
+}
